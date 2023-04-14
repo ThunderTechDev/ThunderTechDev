@@ -1,16 +1,31 @@
-### Hi there 👋
+#### BIO
 
-<!--
-**ThunderTechDev/ThunderTechDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Drawing from extensive experience in the financial sector, I have embarked on a new adventure as an application developer for Apple environments. I am passionate about learning and growing in the world of technology, and I have been dedicating my efforts to mastering the Swift language for the past two years. I have knowledge of SwiftUI, Core Data, Firebase, and REST API networking. 
 
-Here are some ideas to get you started:
+In the world of development, I have collaborated with small mobile game development studios, in this case, creating the soundtrack for the games. Besides programming, composing music is my other great passion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ⛏️ I'm working right now in my first iOS apps </br></br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Gonzalez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-gonzález-cristóbal-32aa59248/)
+
+</br>
+
+#### Where to find my music:
+
+[![Web](https://img.shields.io/badge/Web-Oblidivm_Music_Homepage-14a1f0?style=for-the-badge&logo=web.to&logoColor=white&labelColor=101010)](https://oblidivmmusic.blogspot.com)</br>
+
+[![Web](https://img.shields.io/badge/Bandcamp-Oblidivm-14a1f0?style=for-the-badge&logo=web.to&logoColor=white&labelColor=101010)](https://oblidivm.bandcamp.com/track/into-the-interstellar-void)</br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-@oblidivm-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/oblidivm/)
+
+
+
+### Skills
+
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+[![applemusic](https://img.shields.io/badge/Logic_Pro_X-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+</br>
+
+
+
