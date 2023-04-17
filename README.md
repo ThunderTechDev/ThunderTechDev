@@ -11,20 +11,21 @@ In the world of development, I have collaborated with small mobile game developm
 
 #### Where to find my music:
 
-[![Web](https://img.shields.io/badge/Web-Oblidivm_Music_Homepage-14a1f0?style=for-the-badge&logo=web.to&logoColor=white&labelColor=101010)](https://oblidivmmusic.blogspot.com)</br>
+[![Web](https://img.shields.io/badge/Web-Oblidivm_Music_Homepage-7149C6?style=for-the-badge&logo=blogger&logoColor=white&labelColor=101010)](https://oblidivmmusic.blogspot.com)</br>
 
-[![Web](https://img.shields.io/badge/Bandcamp-Oblidivm-14a1f0?style=for-the-badge&logo=web.to&logoColor=white&labelColor=101010)](https://oblidivm.bandcamp.com/track/into-the-interstellar-void)</br>
+[![Web](https://img.shields.io/badge/Bandcamp-Oblidivm-7149C6?style=for-the-badge&logo=bandcamp&logoColor=white&labelColor=101010)](https://oblidivm.bandcamp.com/track/into-the-interstellar-void)</br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@oblidivm-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/oblidivm/)
+[![Instagram](https://img.shields.io/badge/Instagram-@oblidivm-7149C6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/oblidivm/)
 
 
 
 ### Skills
 
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-[![applemusic](https://img.shields.io/badge/Logic_Pro_X-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![applemusic](https://img.shields.io/badge/Logic_Pro_X-7149C6?style=for-the-badge&logo=applemusic&logoColor=white&labelColor=101010)]()
 </br>
 
 
